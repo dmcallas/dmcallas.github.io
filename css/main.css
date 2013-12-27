@@ -9,7 +9,7 @@
   margin: 0;
   padding: 0;
 }
-
+/*
 html, body { height: 100%; }
 
 body {
@@ -28,7 +28,7 @@ p { margin: 1em 0; }
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
-
+*/
 /*****************************************************************************/
 /*
 /* Home
@@ -58,7 +58,7 @@ a:visited { color: #a0a; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 60em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
